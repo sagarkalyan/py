@@ -5,32 +5,34 @@
 
 This repository is designed to be your comprehensive guide to mastering Python programming, whether you're a complete novice or an aspiring developer seeking to elevate your skills. We'll guide you through foundational concepts, intermediate-level techniques, and advanced pro-grade applications.
 
+---
+
 ### Section 1: Beginner Level
 **Essential Building Blocks**
-⭐ Setting Up Your Development Environment
-⭐ Variables and Data Types (Numbers, Strings, Booleans, Lists, Tuples, Dictionaries)
-⭐ Operators (Arithmetic, Comparison, Logical)
-⭐ Input and Output (Working with User Input and Printing Results)
-⭐ Control Flow (Conditional Statements, Loops)
-⭐ Functions (Creating Reusable Code)
+- ⭐ Setting Up Your Development Environment
+- ⭐ Variables and Data Types (Numbers, Strings, Booleans, Lists, Tuples, Dictionaries)
+- ⭐ Operators (Arithmetic, Comparison, Logical)
+- ⭐ Input and Output (Working with User Input and Printing Results)
+- ⭐ Control Flow (Conditional Statements, Loops)
+- ⭐ Functions (Creating Reusable Code)
 
 ### Section 2: Medium Professional Level
 **Intermediate Proficiency**
-⭐ Object-Oriented Programming (Classes, Objects, Inheritance, Encapsulation, Polymorphism)
-⭐ Data Structures (Lists, Tuples, Dictionaries, Sets)
-⭐ File Handling (Reading and Writing Files)
-⭐ Modules and Packages (Organizing Your Code)
-⭐ Exceptions and Error Handling
-⭐ Regular Expressions (Pattern Matching)
+- ⭐ Object-Oriented Programming (Classes, Objects, Inheritance, Encapsulation, Polymorphism)
+- ⭐ Data Structures (Lists, Tuples, Dictionaries, Sets)
+- ⭐ File Handling (Reading and Writing Files)
+- ⭐ Modules and Packages (Organizing Your Code)
+- ⭐ Exceptions and Error Handling
+- ⭐ Regular Expressions (Pattern Matching)
 
 ### Section 3: Pro Complex Level
 **Advanced Mastery**
-⭐ Asynchronous Programming (Concurrency and Parallelism)
-⭐ Network Programming (Building Web Applications and APIs)
-⭐ Database Interaction (Connecting to Databases)
-⭐ Data Analysis and Visualization (Using Libraries like NumPy, Pandas, Matplotlib)
-⭐ Testing and Debugging (Ensuring Code Reliability)
-⭐ Security Considerations (Protecting Your Applications)
+- ⭐ Asynchronous Programming (Concurrency and Parallelism)
+- ⭐ Network Programming (Building Web Applications and APIs)
+- ⭐ Database Interaction (Connecting to Databases)
+- ⭐ Data Analysis and Visualization (Using Libraries like NumPy, Pandas, Matplotlib)
+- ⭐ Testing and Debugging (Ensuring Code Reliability)
+- ⭐ Security Considerations (Protecting Your Applications)
 
 ## Getting Started
 
